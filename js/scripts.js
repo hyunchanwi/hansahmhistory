@@ -62,6 +62,6 @@ window.onload = function () {
 
     const hw = document.getElementById('hw');
     hw.addEventListener('click', function () {
-        alert('버튼 되게 신기하지? 이거하는데 1시간 동안 했어..');
+        alert('축하축하!! 데스크애다가 보여주시고 선물과 도장을 받아가세요!!');
     })
 }

@@ -12539,8 +12539,9 @@ html {
   /* text-align: left; */
 }
 
-button {
-  margin: 20px;
+.btn-16 {
+  margin-left: 800px;
+  margin-bottom: 120px;
 }
 
 
@@ -12564,3 +12565,6 @@ button {
 }
 
 
+.egg{
+color: aqua;
+}
