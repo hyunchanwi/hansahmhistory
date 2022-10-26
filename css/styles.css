@@ -12568,3 +12568,14 @@ html {
 .egg{
 color: aqua;
 }
+
+/* .logo{
+size: 2%;
+top: 1px;
+margin-left: -20px;
+} */
+
+.pluginlogo{
+  position: relative;
+  margin-left: -60px;
+}
